@@ -8,6 +8,7 @@ namespace HalloRotterdam
         {
             Console.WriteLine("Hallo Rotterdam!");
             Console.WriteLine("Groetjes van Bram");
+            Console.WriteLine("p.s. En de groeten van Ruud!");
         }
     }
 }
